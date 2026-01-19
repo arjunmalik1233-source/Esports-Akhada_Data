@@ -30,27 +30,6 @@
         "• Team-up is strictly prohibited.",
         "• Hackers will be banned permanently."
       ]
-    },
-    {
-      "matchId": "test_match_001",
-      "title": "Erangel Squad Match",
-      "map": "Erangel",
-      "type": "Squad",
-      "entryFee": 2,
-      "prizePool": 500,
-      "perKill": 1,
-      "time": "10:00 PM",
-      "date": "19 Jan",
-      "totalSlots": 100,
-      "filledSlots": 45,
-      "isFull": false,
-      "status": "Open",
-      "matchTime": "20 Jan, 12:32 PM",
-      "roomId": "123456",
-      "password": "arjun124",
-      "isRoomIDRevealed": true,
-      "winnerPrize": 120,
-      "timestamp": 1768892520000
     }
   ]
 }
