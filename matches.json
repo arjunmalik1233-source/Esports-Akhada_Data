@@ -1,1 +1,24 @@
-
+{
+  "app_status": {
+    "message": "🔥 New Match Added! Pull to refresh.",
+    "force_update": false,
+    "maintenance": false
+  },
+  "matches": [
+    {
+      "matchId": "test_match_001",
+      "title": "Erangel TPP - Squad",
+      "map": "Erangel",
+      "type": "Squad",
+      "entryFee": 20,
+      "prizePool": 500,
+      "perKill": 10,
+      "time": "10:00 PM",
+      "date": "19 Jan",
+      "totalSlots": 100,
+      "filledSlots": 45,
+      "isFull": false,
+      "status": "Open"
+    }
+  ]
+}
