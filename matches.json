@@ -8,8 +8,8 @@
     {
       "matchId": "match_1768931385455",
       "title": "Erangel Squad TPP Match",
-      "matchTime": "24 Jan, 11:19 PM",
-      "timestamp": 1769276940000,
+      "matchTime": "26 Jan, 11:20 PM",
+      "timestamp": 1769449800000,
       "map": "Erangel",
       "type": "Squad",
       "view": "TPP",
@@ -22,7 +22,7 @@
       "joinedCount": 0,
       "status": "Upcoming",
       "isResultDeclared": false,
-      "isRoomIDRevealed": false,
+      "isRoomIDRevealed": true,
       "imageUrl": "assets/bg.jpg",
       "createdAt": "2026-01-20T23:19:45.456042",
       "rules": [
@@ -30,7 +30,9 @@
         "• Map: Erangel (TPP)",
         "• Team-up is strictly prohibited.",
         "• Hackers will be banned permanently."
-      ]
+      ],
+      "roomId": "123456",
+      "password": "arjun"
     },
     {
       "matchId": "match_1768921218796",
