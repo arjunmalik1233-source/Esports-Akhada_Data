@@ -22,7 +22,7 @@
       "joinedCount": 0,
       "status": "Upcoming",
       "isResultDeclared": false,
-      "isRoomIDRevealed": false,
+      "isRoomIDRevealed": true,
       "imageUrl": "assets/bg.jpg",
       "createdAt": "2026-01-21T23:55:13.970073",
       "rules": [
@@ -30,7 +30,9 @@
         "• Map: Erangel (TPP)",
         "• Team-up is strictly prohibited.",
         "• Hackers will be banned permanently."
-      ]
+      ],
+      "roomId": "123456",
+      "password": "arjun"
     }
   ]
 }
