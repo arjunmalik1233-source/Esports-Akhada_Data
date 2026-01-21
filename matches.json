@@ -6,6 +6,33 @@
   },
   "upcoming_matches": [
     {
+      "matchId": "match_1769013739817",
+      "title": "Erangel Squad TPP Match",
+      "matchTime": "21 Jan, 10:34 PM",
+      "timestamp": 1769015040000,
+      "map": "Erangel",
+      "type": "Squad",
+      "view": "TPP",
+      "isEmulatorAllowed": false,
+      "entryFee": 2,
+      "prizePool": 120,
+      "perKill": 1,
+      "winnerPrize": 20,
+      "maxSpots": 100,
+      "joinedCount": 0,
+      "status": "Upcoming",
+      "isResultDeclared": false,
+      "isRoomIDRevealed": false,
+      "imageUrl": "assets/bg.jpg",
+      "createdAt": "2026-01-21T22:12:19.818890",
+      "rules": [
+        "• Mobile Only (No Emulators) 📱",
+        "• Map: Erangel (TPP)",
+        "• Team-up is strictly prohibited.",
+        "• Hackers will be banned permanently."
+      ]
+    },
+    {
       "matchId": "match_1769013539086",
       "title": "Erangel Squad TPP Match",
       "matchTime": "21 Jan, 10:24 PM",
