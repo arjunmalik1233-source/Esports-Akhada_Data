@@ -31,35 +31,6 @@
         "• Team-up is strictly prohibited.",
         "• Hackers will be banned permanently."
       ]
-    },
-    {
-      "matchId": "match_1769013539086",
-      "title": "Erangel Squad TPP Match",
-      "matchTime": "21 Jan, 10:44 PM",
-      "timestamp": 1769015640000,
-      "map": "Erangel",
-      "type": "Squad",
-      "view": "TPP",
-      "isEmulatorAllowed": false,
-      "entryFee": 2,
-      "prizePool": 120,
-      "perKill": 1,
-      "winnerPrize": 20,
-      "maxSpots": 100,
-      "joinedCount": 0,
-      "status": "Upcoming",
-      "isResultDeclared": false,
-      "isRoomIDRevealed": true,
-      "imageUrl": "assets/bg.jpg",
-      "createdAt": "2026-01-21T22:08:59.086873",
-      "rules": [
-        "• Mobile Only (No Emulators) 📱",
-        "• Map: Erangel (TPP)",
-        "• Team-up is strictly prohibited.",
-        "• Hackers will be banned permanently."
-      ],
-      "roomId": "123456",
-      "password": "arjun"
     }
   ]
 }
