@@ -8,8 +8,8 @@
     {
       "matchId": "match_1769071474693",
       "title": "Erangel Squad TPP Match",
-      "matchTime": "30 Jan, 02:15 PM",
-      "timestamp": 1769762700000,
+      "matchTime": "29 Jan, 02:15 PM",
+      "timestamp": 1769676300000,
       "map": "Erangel",
       "type": "Squad",
       "view": "TPP",
@@ -30,7 +30,9 @@
         "• Map: Erangel (TPP)",
         "• Team-up is strictly prohibited.",
         "• Hackers will be banned permanently."
-      ]
+      ],
+      "roomId": "",
+      "password": ""
     },
     {
       "matchId": "match_1769019913969",
