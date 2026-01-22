@@ -8,8 +8,8 @@
     {
       "matchId": "match_1769084985470",
       "title": "Sanhok Squad TPP Match",
-      "matchTime": "30 Jan, 05:59 PM",
-      "timestamp": 1769776140000,
+      "matchTime": "31 Jan, 05:00 PM",
+      "timestamp": 1769859000000,
       "map": "Sanhok",
       "type": "Squad",
       "view": "TPP",
@@ -30,7 +30,9 @@
         "• Map: Sanhok (TPP)",
         "• Team-up is strictly prohibited.",
         "• Hackers will be banned permanently."
-      ]
+      ],
+      "roomId": "",
+      "password": ""
     },
     {
       "matchId": "match_1769071474693",
