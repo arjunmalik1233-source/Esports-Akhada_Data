@@ -6,6 +6,33 @@
   },
   "upcoming_matches": [
     {
+      "matchId": "match_1769084985470",
+      "title": "Sanhok Squad TPP Match",
+      "matchTime": "30 Jan, 05:59 PM",
+      "timestamp": 1769776140000,
+      "map": "Sanhok",
+      "type": "Squad",
+      "view": "TPP",
+      "isEmulatorAllowed": false,
+      "entryFee": 0,
+      "prizePool": 20,
+      "perKill": 0,
+      "winnerPrize": 20,
+      "maxSpots": 100,
+      "joinedCount": 0,
+      "status": "Upcoming",
+      "isResultDeclared": false,
+      "isRoomIDRevealed": false,
+      "imageUrl": "assets/bg.jpg",
+      "createdAt": "2026-01-22T17:59:45.470252",
+      "rules": [
+        "• Mobile Only (No Emulators) 📱",
+        "• Map: Sanhok (TPP)",
+        "• Team-up is strictly prohibited.",
+        "• Hackers will be banned permanently."
+      ]
+    },
+    {
       "matchId": "match_1769071474693",
       "title": "Erangel Squad TPP Match",
       "matchTime": "29 Jan, 02:15 PM",
