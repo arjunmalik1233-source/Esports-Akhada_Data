@@ -4,5 +4,33 @@
     "force_update": false,
     "maintenance": false
   },
-  "upcoming_matches": []
+  "upcoming_matches": [
+    {
+      "matchId": "match_1771933528792",
+      "title": "Miramar Squad TPP Match",
+      "matchTime": "27 Feb, 05:15 PM",
+      "timestamp": 1772192700000,
+      "map": "Miramar",
+      "type": "Squad",
+      "view": "TPP",
+      "isEmulatorAllowed": false,
+      "entryFee": 2,
+      "prizePool": 120,
+      "perKill": 1,
+      "winnerPrize": 20,
+      "maxSpots": 100,
+      "joinedCount": 0,
+      "status": "Upcoming",
+      "isResultDeclared": false,
+      "isRoomIDRevealed": false,
+      "imageUrl": "assets/bg.jpg",
+      "createdAt": "2026-02-24T17:15:28.792774",
+      "rules": [
+        "• Mobile Only (No Emulators) 📱",
+        "• Map: Miramar (TPP)",
+        "• Team-up is strictly prohibited.",
+        "• Hackers will be banned permanently."
+      ]
+    }
+  ]
 }
