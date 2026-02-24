@@ -4,33 +4,5 @@
     "force_update": false,
     "maintenance": false
   },
-  "upcoming_matches": [
-    {
-      "matchId": "match_1771573858260",
-      "title": "Sanhok Squad TPP Match",
-      "matchTime": "24 Feb, 03:20 PM",
-      "timestamp": 1771926600000,
-      "map": "Sanhok",
-      "type": "Squad",
-      "view": "TPP",
-      "isEmulatorAllowed": false,
-      "entryFee": 2,
-      "prizePool": 20,
-      "perKill": 1,
-      "winnerPrize": 120,
-      "maxSpots": 100,
-      "joinedCount": 0,
-      "status": "Upcoming",
-      "isResultDeclared": false,
-      "isRoomIDRevealed": false,
-      "imageUrl": "assets/bg.jpg",
-      "createdAt": "2026-02-20T13:20:58.260",
-      "rules": [
-        "• Mobile Only (No Emulators) 📱",
-        "• Map: Sanhok (TPP)",
-        "• Team-up is strictly prohibited.",
-        "• Hackers will be banned permanently."
-      ]
-    }
-  ]
+  "upcoming_matches": []
 }
